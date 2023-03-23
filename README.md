@@ -1,4 +1,4 @@
-###### Hi👋, I'm Teboho Nthako.
+## Hi👋, I'm Teboho Nthako.
 
 
 <!--
@@ -28,6 +28,9 @@
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I create content on Youtube & Tik Tok as a hobby.
+
+
+## My Github stats
 
 [![Teboho’s github stats](https://github-readme-stats.vercel.app/api?username=tebohonthako)](https://github.com/tebohonthako)
 
