@@ -3,7 +3,7 @@
 <!--
 **tebohonthako/tebohonthako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css, nodejs, react, git)](https://skills.thijs.gg)
 
 ### 🔭 I’m currently working on Uber clone using React-native, Expo & Redux.
 ### 🌱 I’m currently learning Bootstrap.
@@ -19,4 +19,4 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
+
