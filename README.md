@@ -37,7 +37,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=your-github-tebohonthako
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-tebohonthako&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tebohonthako&theme=dark&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
