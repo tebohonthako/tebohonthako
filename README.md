@@ -8,10 +8,10 @@
 -->
 
 
-- 🔭 I’m currently working on Uber clone using React-native, Expo & Redux.
+- 🔭 I’m currently working on an Uber clone.
 - 🌱 I’m currently learning Bootstrap.
 - 👯 I’m looking to collaborate on React.js projects.
-- 💬 Ask me about React, Node.JS, JavaScript, CSS, HTML
+- 💬 Ask me about  HTML, CSS, JavaScript, React and Node.JS
 - 📫 How to reach me: 
 <!-- display the social media buttons in your README -->
 
@@ -29,7 +29,7 @@
   [5]: https://www.github.com/tebohonthako
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I create content on Youtube & Tik Tok as a hobby.
+- ⚡ Fun fact: I am a huge fan of Catfish on MTV.
 
 
 ## My Github stats
