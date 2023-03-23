@@ -1,4 +1,4 @@
-# Hi👋, I'm Teboho Nthako.
+# Hi👋, I'm Teboho Nthako aka TEBOO !
 
  
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,react)](https://skills.thijs.gg)
