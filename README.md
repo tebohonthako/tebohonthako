@@ -3,6 +3,8 @@
 ## I'm a Passionate Full-stack React Developer, Content creator & Model.
 
  
+ 
+ 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,react,git)](https://skills.thijs.gg)
 
 <!--
@@ -38,7 +40,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tebohonthako&theme=dark&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Teboho’s github stats](https://github-readme-stats.vercel.app/api?username=tebohonthako)](https://github.com/tebohonthako)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tebohonthako&layout=compact)](https://github.com/tebohonthako)
 
