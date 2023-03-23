@@ -1,7 +1,5 @@
-### Hi👋, I'm Teboho Nthako.
+###### Hi👋, I'm Teboho Nthako.
 
-### My tech stack: 
- ## [![My Skills](https://skills.thijs.gg/icons?i=js,html,css, nodejs, react, git)](https://skills.thijs.gg)
 
 <!--
 **tebohonthako/tebohonthako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +29,9 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I create content on Youtube & Tik Tok as a hobby.
 
+[![Teboho’s github stats](https://github-readme-stats.vercel.app/api?username=tebohonthako)](https://github.com/tebohonthako)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tebohonthako&layout=compact)](https://github.com/tebohonthako)
 
 
 
