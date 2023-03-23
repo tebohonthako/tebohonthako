@@ -1,7 +1,7 @@
 ### Hi👋, I'm Teboho Nthako.
 
 ### My tech stack: 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css, nodejs, react, git)](https://skills.thijs.gg)
+ ## [![My Skills](https://skills.thijs.gg/icons?i=js,html,css, nodejs, react, git)](https://skills.thijs.gg)
 
 <!--
 **tebohonthako/tebohonthako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Uber clone using React-native, Expo & Redux.
 - 🌱 I’m currently learning Bootstrap.
-- 👯 I’m looking to collaborate on React.js
+- 👯 I’m looking to collaborate on React.js projects.
 - 💬 Ask me about React, Node.JS, JavaScript, CSS, HTML
 - 📫 How to reach me: 
 <!-- display the social media buttons in your README -->
