@@ -1,5 +1,7 @@
 # Hi👋, I'm Teboho Nthako.
 
+## I'm a Passionate Full-stack React Developer, Content creator & former Biologist.
+
  
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,react)](https://skills.thijs.gg)
 
