@@ -8,7 +8,7 @@
 -->
 
 
-- 🔭 I’m currently working on an Uber clone.
+- 🔭 I’m currently working on an Uber clone using React-native + Expo.
 - 🌱 I’m currently learning Bootstrap.
 - 👯 I’m looking to collaborate on React.js projects.
 - 💬 Ask me about  HTML, CSS, JavaScript, React and Node.JS
