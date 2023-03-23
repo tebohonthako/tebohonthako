@@ -1,6 +1,6 @@
 # Hi👋, I'm Teboho Nthako.
 
-## I'm a Passionate Full-stack React Developer, Content creator & Model.
+## I'm a Passionate Full-stack React Developer and Content creator.
 
  
  
