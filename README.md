@@ -32,11 +32,10 @@
 - ⚡ Fun fact: I am a huge fan of Catfish on MTV.
 
 
-## My Github stats
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-tebohonthako
 
-[![Teboho’s github stats](https://github-readme-stats.vercel.app/api?username=tebohonthako)](https://github.com/tebohonthako)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tebohonthako&layout=compact)](https://github.com/tebohonthako)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-tebohonthako&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
