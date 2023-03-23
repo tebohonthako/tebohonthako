@@ -3,7 +3,7 @@
 ## I'm a Passionate Full-stack React Developer, Content creator & Model.
 
  
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,react,git)](https://skills.thijs.gg)
 
 <!--
 **tebohonthako/tebohonthako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
