@@ -14,9 +14,9 @@
 
 
 - 🔭 I’m currently working on an Uber clone using React-native + Expo.
-- 🌱 I’m currently enrolled as a Software engineering student at Melsoft Academy bootcamp.
+- 🌱 I’m also currently enrolled as a Software engineering student at Melsoft Academy bootcamp.
 - 👯 I’m looking to collaborate on React.js projects.
-- 💬 Ask me about  HTML, CSS, JavaScript abd React 
+- 💬 Ask me about  HTML, CSS, JavaScript and React 
 - 📫 How to reach me: 
 <!-- display the social media buttons in your README -->
 
@@ -34,7 +34,7 @@
   [5]: https://www.github.com/tebohonthako
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a huge fan of Catfish on MTV.
+- ⚡ Fun fact: I am a huge fan of Catfish on MTV and I create content as a hobby. 
 
 
 ### :fire: My Stats :
