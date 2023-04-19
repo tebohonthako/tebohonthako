@@ -14,9 +14,9 @@
 
 
 - 🔭 I’m currently working on an Uber clone using React-native + Expo.
-- 🌱 I’m currently enrolled at SheCodes bootcamp, I'm a SheCodes Basics Alumni and currently working on SheCodes Plus.
+- 🌱 I’m currently enrolled as a Software engineering student at Melsoft Academy bootcamp.
 - 👯 I’m looking to collaborate on React.js projects.
-- 💬 Ask me about  HTML, CSS, JavaScript, React and Node.JS
+- 💬 Ask me about  HTML, CSS, JavaScript abd React 
 - 📫 How to reach me: 
 <!-- display the social media buttons in your README -->
 
