@@ -1,6 +1,6 @@
 # Hi👋, I'm Teboho Nthako.
 
-## I'm a Passionate Full-stack React Developer and Content creator.
+## I'm a Passionate Front-end React Developer and Content creator.
 
  
  
@@ -13,8 +13,8 @@
 -->
 
 
-- 🔭 I’m currently working on an Uber clone using React-native + Expo.
-- 🌱 I’m also currently enrolled as a Software engineering student at Melsoft Academy bootcamp.
+- 🔭 I’m currently working on Javscript & applying Object-oriented programming to my bootcamp projects
+- 🌱 I’m also currently enrolled as a Software engineering student & Junior Dev at Melsoft Academy bootcamp
 - 👯 I’m looking to collaborate on React.js projects.
 - 💬 Ask me about  HTML, CSS, JavaScript and React 
 - 📫 How to reach me: 
