@@ -13,7 +13,7 @@
 -->
 
 
-- 🔭 I’m currently working on Javscript & applying Object-oriented programming to my bootcamp projects
+- 🔭 I’m currently working on Javascript & applying Object-oriented programming to my bootcamp projects
 - 🌱 I’m also currently enrolled as a Software engineering student & Junior Dev at Melsoft Academy bootcamp
 - 👯 I’m looking to collaborate on React.js projects.
 - 💬 Ask me about  HTML, CSS, JavaScript and React 
