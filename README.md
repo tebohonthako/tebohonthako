@@ -1,4 +1,4 @@
-# Hi👋, I'm Teboho Nthako.
+# Hi👋, I'm Teboho
 
 ## I'm a Passionate React Developer and Content creator.
 
