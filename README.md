@@ -14,7 +14,7 @@
 
 
 - 🔭 I'm a creative who fell inlove with Front-end development.
-- 🌱 I’m completed a full-stack web development bootcamp & I have experience as Junior Developer at a tech startup.
+- 🌱 I completed a full-stack web development bootcamp & I have experience as Junior Developer at a tech startup.
 - 👯 I’m looking to collaborate on React projects.
 - 💬 Ask me about  HTML, CSS, JavaScript, Typescript, Firebase
 - 📫 How to reach me: 
