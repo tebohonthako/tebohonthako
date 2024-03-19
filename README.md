@@ -35,7 +35,7 @@
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a huge fan of Catfish on MTV and I create tech content as a hobby.
-- - ⚡ Interests: Mobile deveopment  
+- - ⚡ Interests: Mobile development  
 
 
 ### :fire: My Stats :
