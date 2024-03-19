@@ -1,4 +1,4 @@
-# Hi👋, I'm Teboho
+# Hi👋, I'm Teboo
 
 ## I'm a Passionate React Developer and Content creator.
 
@@ -34,7 +34,8 @@
   [5]: https://www.github.com/tebohonthako
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a huge fan of Catfish on MTV and I create tech content as a hobby. 
+- ⚡ Fun fact: I am a huge fan of Catfish on MTV and I create tech content as a hobby.
+- - ⚡ Interests: Mobile deveopment  
 
 
 ### :fire: My Stats :
