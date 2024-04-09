@@ -1,6 +1,6 @@
 # Hi👋, I'm Teboo
 
-## I'm a Passionate React Developer and Content creator.
+## I'm a Passionate Full-stack Developer and Content creator.
 
  
  
