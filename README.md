@@ -1,4 +1,4 @@
-# Hi👋, I'm Teboo
+# Hi👋, I'm Teboho
 
 ## I'm a Passionate Full-stack Developer and Content creator.
 
